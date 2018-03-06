@@ -1,2 +1,2 @@
 # tictactoe
-This is a simple Tic-Tac-Toe game built in Unity that I intend to submit as my first "Game of the Month" entry
+This is a simple Tic-Tac-Toe game. I built this in about two hours of playing around with the HTML5 Canvas object in order to learn more about it.
